@@ -1,5 +1,5 @@
 # Contract Address
-0x6D887aF46F0e66A81047f937717c7a60aC466141
+0xA8cC7488aF552F941041C3700A4E070667CdD42b
 # Decentralized Note-Taking App
 
 ## Project Description
