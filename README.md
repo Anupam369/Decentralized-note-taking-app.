@@ -22,3 +22,5 @@ The goal of this project is to provide a **trustless, censorship-resistant, and 
 - **Easy Retrieval**: Users can fetch and list their notes efficiently.
 - **Secure and Transparent**: The contract ensures transparency while keeping user data secure.
 # Decentralized-note-taking-app.
+![image](https://github.com/user-attachments/assets/59cd3707-6df6-4931-a5fe-44bcc160f253)
+
