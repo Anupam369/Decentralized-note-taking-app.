@@ -1,4 +1,4 @@
-# User Address
+# Contract Address
 0x6D887aF46F0e66A81047f937717c7a60aC466141
 # Decentralized Note-Taking App
 
