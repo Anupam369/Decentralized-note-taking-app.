@@ -24,3 +24,4 @@ The goal of this project is to provide a **trustless, censorship-resistant, and 
 # Decentralized-note-taking-app.
 ![image](https://github.com/user-attachments/assets/59cd3707-6df6-4931-a5fe-44bcc160f253)
 
+![image](https://github.com/user-attachments/assets/db2d892e-cd73-4aa9-9cb1-8bfe5a2afba9)
